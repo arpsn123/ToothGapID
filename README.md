@@ -1,18 +1,27 @@
-# ToothGapID ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg) ![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg) ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg) ![Test Coverage](https://img.shields.io/badge/test%20coverage-85%25-brightgreen.svg) ![Issues](https://img.shields.io/github/issues/arpsn123/ToothGapID.svg) ![Code Quality](https://img.shields.io/badge/code%20quality-95%25-brightgreen.svg)
+# ToothGapID
+![GitHub Repo Stars](https://img.shields.io/github/stars/arpsn123/ToothGapID?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/arpsn123/ToothGapID?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/arpsn123/ToothGapID)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/arpsn123/ToothGapID)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/arpsn123/ToothGapID)
+![GitHub Contributors](https://img.shields.io/github/contributors/arpsn123/ToothGapID)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/arpsn123/ToothGapID)
+![GitHub Language Count](https://img.shields.io/github/languages/count/arpsn123/ToothGapID)
+![GitHub Top Language](https://img.shields.io/github/languages/top/arpsn123/ToothGapID)
+![GitHub Watchers](https://img.shields.io/github/watchers/arpsn123/ToothGapID?style=social)
+![Maintenance Status](https://img.shields.io/badge/Maintenance-%20Active-green)
 
 ToothGapID is an innovative tool designed for the precise detection of missing teeth in dental X-rays, utilizing state-of-the-art deep learning models to facilitate reliable and standardized reporting based on the **FDI numbering system**. This project integrates advanced image processing techniques to enhance diagnostic capabilities and improve patient outcomes.
 
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Model Performance](#model-performance)
   - [Detectron2 Performance](#detectron2-performance)
   - [YOLOv8 Performance](#yolov8-performance)
 - [Challenges and Failures](#challenges-and-failures)
 - [Future Work](#future-work)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Features
